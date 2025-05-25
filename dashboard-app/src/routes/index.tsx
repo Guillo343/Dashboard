@@ -16,7 +16,6 @@ export const router = createBrowserRouter([
         index: true,
         element: <Dashboard />,
       },
-      // otras rutas protegidas
     ],
   },
   {
